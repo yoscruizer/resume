@@ -1,0 +1,14 @@
+- name: PHP
+  level:
+    description: Expert
+    value: 100
+
+- name: Git
+  level:
+    description: Proficient
+    value: 80
+
+- name: SEO
+  level:
+    description: Expert
+    value: 58
